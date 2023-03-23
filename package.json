@@ -1,0 +1,15 @@
+{
+  "name": "img-lqip",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "npx arc sandbox"
+  },
+  "dependencies": {
+    "@architect/functions": "^5.4.0",
+    "wasm-vips": "^0.0.4"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.10.3"
+  }
+}
